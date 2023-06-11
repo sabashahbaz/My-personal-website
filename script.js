@@ -5,3 +5,4 @@ document.querySelector("body").appendChild(h2);
 const h3 = document.createElement("h3");
 h3.textContent = "Click on the cat, to see what it has to say!";
 document.querySelector("body").appendChild(h3);
+
